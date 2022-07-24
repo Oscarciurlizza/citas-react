@@ -1,0 +1,8 @@
+.hero {
+    height: 90vh;
+    clip-path: polygon(25% 0%, 100% 0, 100% 95%, 0 100%, 0 100%, 0 0);
+}
+
+.header {
+    height: 90vh;
+}
